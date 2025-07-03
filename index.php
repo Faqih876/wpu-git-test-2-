@@ -9,6 +9,10 @@
 <body>
     <h1>HelloWorld!<h1>
     <p>Hallo<p>
+<ul>
+    <li>satu<li>
+    <li>dua<li>
+<ul>    
 </body>   
 <html>     
 
